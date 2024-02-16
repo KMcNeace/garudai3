@@ -1,0 +1,68 @@
+{
+   "checksum": "8bf9c1016c67eb9896ed7038ddf79ff9",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13102446837000000",
+            "date_last_used": "0",
+            "guid": "847831cd-502f-4d68-a5ea-6d78a78aa545",
+            "id": "5",
+            "name": "Garuda Linux",
+            "type": "url",
+            "url": "https://garudalinux.org/"
+         }, {
+            "date_added": "13102446886000000",
+            "date_last_used": "0",
+            "guid": "05f81942-83b1-4ae5-963f-c752b6c051df",
+            "id": "6",
+            "name": "Wiki",
+            "type": "url",
+            "url": "https://wiki.garudalinux.org/"
+         }, {
+            "date_added": "13102446920000000",
+            "date_last_used": "0",
+            "guid": "d492155e-7f9c-494d-b732-6733a57d65e3",
+            "id": "7",
+            "name": "Garuda Forum",
+            "type": "url",
+            "url": "https://forum.garudalinux.org/"
+         }, {
+            "date_added": "13102446920000000",
+            "date_last_used": "0",
+            "guid": "19657b10-27f1-4b6d-a959-497648c77056",
+            "id": "8",
+            "name": "Uptimes",
+            "type": "url",
+            "url": "https://status.garudalinux.org/"
+         } ],
+         "date_added": "13352510920833034",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13352510920833037",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13352510920833039",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

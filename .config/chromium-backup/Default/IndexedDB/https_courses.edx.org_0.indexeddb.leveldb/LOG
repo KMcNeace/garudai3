@@ -1,0 +1,7 @@
+2024/02/15-16:51:25.221 17baa Reusing MANIFEST /home/kilan/.config/chromium/Default/IndexedDB/https_courses.edx.org_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/15-16:51:25.222 17baa Recovering log #3
+2024/02/15-16:51:25.222 17baa Reusing old log /home/kilan/.config/chromium/Default/IndexedDB/https_courses.edx.org_0.indexeddb.leveldb/000003.log 
+2024/02/15-21:00:23.127 17bab Level-0 table #5: started
+2024/02/15-21:00:23.128 17bab Level-0 table #5: 3640 bytes OK
+2024/02/15-21:00:23.130 17bab Delete type=0 #3
+2024/02/15-21:00:23.130 17bab Manual compaction at level-0 from (begin) .. (end); will stop at (end)

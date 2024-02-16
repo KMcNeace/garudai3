@@ -1,0 +1,5 @@
+2024-02-15 21:02:17.307 [warning] /home/kilan/.ssh/config: ENOENT: no such file or directory, open '/home/kilan/.ssh/config'
+2024-02-15 21:02:17.307 [info] Activation> Extension version: 0.80.1
+2024-02-15 21:02:17.373 [info] Looking for git repository
+2024-02-15 21:02:17.373 [info] Found 0 repositories during activation
+2024-02-15 21:02:17.373 [info] Git repository found, initializing review manager and pr tree view.

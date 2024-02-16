@@ -1,0 +1,6 @@
+2024/02/15-20:21:21.619 17baa Creating DB /home/kilan/.config/chromium/Default/WebStorage/8/IndexedDB/indexeddb.leveldb since it was missing.
+2024/02/15-20:21:21.620 17baa Reusing MANIFEST /home/kilan/.config/chromium/Default/WebStorage/8/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/02/15-20:33:04.555 17bab Level-0 table #5: started
+2024/02/15-20:33:04.557 17bab Level-0 table #5: 13735 bytes OK
+2024/02/15-20:33:04.557 17bab Delete type=0 #3
+2024/02/15-20:33:04.558 17bab Manual compaction at level-0 from (begin) .. (end); will stop at (end)
